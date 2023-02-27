@@ -1,5 +1,7 @@
+
 # cool_animation
 
+![cool_animation](https://user-images.githubusercontent.com/60475330/221564360-2c2633b6-dab6-407a-95c5-7f2a5c98686a.gif)
 A new Flutter project.
 
 ## Getting Started
